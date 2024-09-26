@@ -31,6 +31,8 @@
 
 - Para ayudarte, puedes desarrollar un algoritmo y el pseudocódigo.
 
+---
+
 **Matias Henriquez Torres**
 
 *Generation Chile*
